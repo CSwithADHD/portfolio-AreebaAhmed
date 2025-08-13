@@ -1,37 +1,33 @@
-Dentist Portfolio Website 🦷✨
+# Dentist Portfolio Website
 
-A sleek, professional portfolio website built for a dentist to establish a strong online presence. The design focuses on clarity, minimalism, and easy navigation, while highlighting the dentist’s education, achievements, and professional experience.
+This portfolio website was created for a professional dentist to showcase their services, qualifications, and patient care philosophy.  
+The goal was to design a clean, approachable, and user-friendly platform that reflects professionalism while being visually welcoming to potential patients.
 
-Overview
+---
 
-This project combines modern front-end development with AI-assisted workflows. I leveraged Claude for content structuring and copy suggestions, and Cursor for speeding up the coding process. The result is a clean, responsive, and easy-to-maintain website.
+## 🎯 Purpose & Vision
+The website serves as a digital identity for the dentist, allowing them to:
+- Present their professional background and dental expertise.
+- Highlight offered services and specializations.
+- Share testimonials to build trust.
+- Provide easy contact options for appointment scheduling.
 
-Key Features
+---
 
-Responsive Design – Works seamlessly across desktop, tablet, and mobile.
+## 🛠 Development Approach
+The site was built entirely with **HTML** and **CSS**, with a focus on accessibility, responsiveness, and modern design principles:
+- **Semantic HTML5** for clear and structured content.
+- **CSS3** for styling and enhancing user experience.
+- **Flexbox & Grid** for responsive, mobile-friendly layouts.
+- Optimized assets for fast loading and smooth performance.
 
-Professional Layout – Focused on essential sections only, no clutter.
+---
 
-Smooth UI Elements – Subtle animations and transitions for a modern feel.
+## 📌 Key Features
+- **Responsive Design** – Optimized for desktops, tablets, and smartphones.
+- **Service-Oriented Layout** – Clear sections for treatments, about, testimonials, and contact.
+- **Inviting Aesthetic** – Warm, clean visuals to make visitors feel welcome.
+- **Custom Styling** – No frameworks, showcasing core HTML/CSS skills.
 
-Optimized Content – Educational background, achievements, and clinic experience clearly presented.
-
-Tech Stack
-
-HTML5, CSS3, JavaScript
-
-##AI Tools: Claude (content planning & refinement), Cursor (code editing & automation)
-
-Git & GitHub for version control
-
-What I Learned
-
-Structuring a professional portfolio website from scratch
-
-Effectively integrating AI tools into the web development workflow
-
-Balancing design aesthetics with fast performance
-
-Live Demo
-
-View Website https://portfolio-areeba-ahmed.vercel.app
+## Live Demo
+https://portfolio-areeba-ahmed.vercel.app
